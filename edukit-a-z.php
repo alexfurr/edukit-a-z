@@ -2,9 +2,9 @@
 /*
 Plugin Name: Edukit A - Z
 Description: Simple A - Z
-Version: 0.1
+Version: 0.1.1
 Author: Alex Furr
-
+GitHub Plugin URI: https://github.com/ImperialCollegeLondon/edukit-a-z
 */
 
 $edukit_az = dirname(__FILE__);
